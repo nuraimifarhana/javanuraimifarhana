@@ -3,8 +3,8 @@
 
 import java.util.Scanner;
 public class averagePublicCar {
-    String model1, country1, model2, country2, model3, country3;
-    long price1, price2, price3;
+    private String model1, country1, model2, country2, model3, country3;
+    private long price1, price2, price3;
 
     
     public static void main(String[]args){
