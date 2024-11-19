@@ -8,6 +8,12 @@ public class averageFirstAssignment {
     private String country;
     private double price;
     
+
+    public averageFirstAssignment(String model, String country, double price){
+        this.model = model;
+        this.country = country;
+        this.price = price;
+}
     public void printDetails(){
         System.out.println("Car model: " + model + " made from " + country + " with price of " + price + "!"); 
     }
