@@ -2,7 +2,7 @@
 //the terminal, and then calculate the average prices of the cars and show it in the terminal.
 
 import java.util.Scanner;
-public class averagePublicCar {
+public class averagePrivateCar {
     private String model1, country1, model2, country2, model3, country3;
     private long price1, price2, price3;
 
