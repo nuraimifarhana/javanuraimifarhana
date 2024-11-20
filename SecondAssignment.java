@@ -29,7 +29,9 @@ public class SecondAssignment{
         if (price > 100000){
             System.out.println("The buyer is VIP.");
         }
-            
+        else{
+            System.out.println("The buyer is not VIP!");
+        }
         
     }
 
